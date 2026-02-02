@@ -40,14 +40,14 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-special-cosd": "^0.2.0",
-    "@stdlib/math-base-special-sind": "github:stdlib-js/math-base-special-sind#main",
+    "@stdlib/math-base-special-cosd": "^0.2.1",
+    "@stdlib/math-base-special-sind": "^0.1.0",
     "@stdlib/napi-argv": "^0.2.2",
     "@stdlib/napi-argv-double": "^0.2.1",
     "@stdlib/napi-argv-float64array": "^0.2.2",
     "@stdlib/napi-export": "^0.3.0",
     "@stdlib/types": "^0.4.3",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
