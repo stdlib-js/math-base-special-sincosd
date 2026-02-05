@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-sincosd",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simultaneously compute the sine and cosine of an angle measured in degrees.",
   "license": "Apache-2.0 AND BSL-1.0",
   "author": {
@@ -42,10 +42,10 @@
   "dependencies": {
     "@stdlib/math-base-special-cosd": "^0.2.1",
     "@stdlib/math-base-special-sind": "^0.1.0",
-    "@stdlib/napi-argv": "^0.2.2",
-    "@stdlib/napi-argv-double": "^0.2.1",
-    "@stdlib/napi-argv-float64array": "^0.2.2",
-    "@stdlib/napi-export": "^0.3.0",
+    "@stdlib/napi-argv": "^0.2.3",
+    "@stdlib/napi-argv-double": "^0.2.2",
+    "@stdlib/napi-argv-float64array": "^0.2.3",
+    "@stdlib/napi-export": "^0.3.1",
     "@stdlib/types": "^0.4.3",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3",
     "@stdlib/utils-library-manifest": "^0.2.3"
@@ -55,10 +55,10 @@
     "@stdlib/array-float64": "^0.2.2",
     "@stdlib/assert-has-own-property": "^0.2.2",
     "@stdlib/constants-float64-eps": "^0.2.2",
-    "@stdlib/constants-float64-ninf": "^0.2.2",
-    "@stdlib/constants-float64-pinf": "^0.2.2",
-    "@stdlib/math-base-assert-is-nan": "^0.2.2",
-    "@stdlib/math-base-special-abs": "^0.2.2",
+    "@stdlib/constants-float64-ninf": "^0.2.3",
+    "@stdlib/constants-float64-pinf": "^0.2.3",
+    "@stdlib/math-base-assert-is-nan": "^0.2.3",
+    "@stdlib/math-base-special-abs": "^0.2.3",
     "@stdlib/random-array-uniform": "^0.2.1",
     "@stdlib/utils-try-require": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
