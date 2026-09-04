@@ -35,6 +35,22 @@ limitations under the License.
 
 > Simultaneously compute the [sine][@stdlib/math/base/special/sind] and [cosine][@stdlib/math/base/special/cosd] of an angle measured in degrees.
 
+<section class="intro">
+
+The function simultaneously computes the [sine][trigonometric-functions] and [cosine][trigonometric-functions] of an angle measured in degrees
+
+<!-- <equation class="equation" label="eq:sincosd_function" align="center" raw="(y_s, y_c) = \left(\sin\!\left(\frac{\pi x}{180}\right),\; \cos\!\left(\frac{\pi x}{180}\right)\right)" alt="Simultaneous sine and cosine of an angle in degrees"> -->
+
+```math
+(y_s, y_c) = \left(\sin\!\left(\frac{\pi x}{180}\right),\; \cos\!\left(\frac{\pi x}{180}\right)\right)
+```
+
+<!-- </equation> -->
+
+</section>
+
+<!-- /.intro -->
+
 <section class="installation">
 
 ## Installation
@@ -291,6 +307,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/math-base-special-sincosd/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-sincosd/main/LICENSE
+
+[trigonometric-functions]: https://en.wikipedia.org/wiki/Trigonometric_functions
 
 [@stdlib/math/base/special/cosd]: https://github.com/stdlib-js/math-base-special-cosd
 
